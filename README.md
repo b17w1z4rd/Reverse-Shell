@@ -30,5 +30,5 @@ The Reverse-Shell project is a demonstration of a reverse shell implemented in R
    git clone https://github.com/b17w1z4rd/Reverse-Shell.git
    cd Reverse-Shell
 2. Compile the project
-   rustc reverse_shell.rs
+   **rustc reverse_shell.rs**
 3. Set up your listener and run the compiled binary.
