@@ -16,14 +16,6 @@ The Reverse-Shell project is a demonstration of a reverse shell implemented in R
 2. **Configure the Reverse Shell**: Modify the code to include the attacker's IP address and the port to which the connection should be established.
 3. **Run the Shell**: Compile and execute the reverse shell on the target machine to initiate the connection.
 
-## Educational Purpose
-
-This project is intended strictly for educational purposes. It aims to provide a foundational understanding of how reverse shells operate and the underlying concepts of network security. Users are encouraged to explore the code and modify it to deepen their understanding of Rust and networking.
-
-## Disclaimer
-
-Using reverse shells can be illegal and unethical if performed without proper authorization. This project is meant for ethical hacking and security research in controlled environments. Always obtain explicit permission before conducting penetration tests or similar activities.
-
 ## Getting Started
 
 ### Prerequisites
