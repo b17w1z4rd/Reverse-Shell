@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Reverse-Shell project is a demonstration of a reverse shell implemented in Rust. This tool establishes a connection from a target machine back to an attacker's machine, enabling remote command execution. It serves as an educational resource for understanding network programming, socket communication, and security concepts related to remote access and exploitation.
+The Reverse-Shell project is a demonstration of a reverse shell implemented in Rust. This tool establishes a connection from a target machine back to an attacker's machine, enabling remote command execution. It serves as a resource for understanding network programming, socket communication, and security concepts related to remote access and exploitation.
 
 ## Features
 
