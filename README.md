@@ -1,8 +1,8 @@
-# Reverse Shell Project
+# Reverse-Shell
 
 ## Overview
 
-The Reverse Shell Project is a demonstration of a reverse shell implemented in Rust. This tool establishes a connection from a target machine back to an attacker's machine, enabling remote command execution. It serves as an educational resource for understanding network programming, socket communication, and security concepts related to remote access and exploitation.
+The Reverse-Shell project is a demonstration of a reverse shell implemented in Rust. This tool establishes a connection from a target machine back to an attacker's machine, enabling remote command execution. It serves as an educational resource for understanding network programming, socket communication, and security concepts related to remote access and exploitation.
 
 ## Features
 
@@ -35,5 +35,5 @@ Using reverse shells can be illegal and unethical if performed without proper au
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/b17w1z4rd/reverse_shell_project.git
-   cd reverse_shell_project
+   git clone https://github.com/b17w1z4rd/Reverse-Shell.git
+   cd Reverse-Shell
